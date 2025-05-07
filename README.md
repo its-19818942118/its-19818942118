@@ -141,7 +141,7 @@ A Newbie at programming. Learning new things and concepts as I go. Fell in love 
 <br clear="both">
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=its-19818942118&theme=dark&hide_border=false" height="300" alt=""  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=its-19818942118&theme=dark&hide_border=true" height="300" alt="streak graph"  />
 </div>
 
 ###
