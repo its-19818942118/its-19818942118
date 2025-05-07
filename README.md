@@ -174,7 +174,7 @@ A Newbie at programming. Learning new things and concepts as I go. Fell in love 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/snake.svg" alt="Snake animation" height="300" />
 
 ###
 
