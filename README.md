@@ -60,6 +60,7 @@ src="https://img.shields.io/github/followers/Its-19818942118?logo=github&style=f
 
 <div width="100%" align="center"><a href="https://github.com/Its-19818942118/N/A" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Its-19818942118&repo=N/A&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 -->
+<!--
 # 💫 About Me:
 A Newbie at programming. Learning new things and concepts as I go. Fell in love with Linux, can say that I am a proud Arch Linux. With the Hyprland WM. Have bit of experience In HTML, CSS, BASH. UI & UX Desiging with Usability, Interactivity & Accessibility In Mind. The idea of it, Beginner at Desiging. Not really special, but really good at configuration and customizations.<br><br>
 
@@ -76,6 +77,95 @@ A Newbie at programming. Learning new things and concepts as I go. Fell in love 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=its-19818942118&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<h1 align="center">Hi there👋I am Izumi.</h1>
+
+###
+
+<h2 align="center">Hello World!!!</h2>
+
+###
+
+<img align="right" height="300" src="https://avatars.githubusercontent.com/u/87006850"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=its-19818942118&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=true&order=2" height="300" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://discordapp.com/users/898443765667209236" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=its-19818942118&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=its-19818942118&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="300" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-19818942118&radius=20&theme=redical&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=its-19818942118&theme=dracula&column=-1&row=1&margin-w=10&margin-h=10&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/snake.svg" alt="Snake animation" />
+
+###
