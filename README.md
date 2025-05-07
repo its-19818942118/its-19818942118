@@ -88,7 +88,7 @@ A Newbie at programming. Learning new things and concepts as I go. Fell in love 
 
 ###
 
-<img align="right" height="300" src="https://avatars.githubusercontent.com/u/87006850"  />
+<img align="right" height="300" src="https://avatars.githubusercontent.com/u/87006850" style="border-radius: 20px;" />
 
 ###
 
@@ -134,6 +134,14 @@ A Newbie at programming. Learning new things and concepts as I go. Fell in love 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=its-19818942118&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="300" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=its-19818942118&theme=dark&hide_border=false" height="300" alt=""  />
 </div>
 
 ###
