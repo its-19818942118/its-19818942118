@@ -169,3 +169,9 @@ A Newbie at programming. Learning new things and concepts as I go. Fell in love 
 <img src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/its-19818942118/count.svg?"  />
+</div>
+
+###
