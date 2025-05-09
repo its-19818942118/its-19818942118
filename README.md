@@ -88,7 +88,8 @@ A Newbie at programming. Learning new things and concepts as I go. Fell in love 
 
 ###
 
-<img align="right" height="300" src="https://avatars.githubusercontent.com/u/87006850" style="border-radius: 20px;" />
+<!--img align="right" height="300" src="https://avatars.githubusercontent.com/u/87006850" style="border-radius: 20px;" /-->
+<img align="right" height="300" src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/refs/heads/profile/profile.png" style="border-radius: 20px;" />
 
 ###
 
