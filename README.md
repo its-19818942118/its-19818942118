@@ -175,12 +175,16 @@ A Newbie at programming. Learning new things and concepts as I go. Fell in love 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/snake.svg" alt="Snake animation" height="300" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/snake-night.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/snake.svg" alt="Snake animation" height="300">
+</picture>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/its-19818942118/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/its-19818942118/count.svg"  />
 </div>
 
 ###
