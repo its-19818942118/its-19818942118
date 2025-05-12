@@ -142,7 +142,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=its-19818942118&radius=20&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=its-19818942118&radius=20&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=its-19818942118&radius=20&theme=github-light&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph">
     <img alt="activity-graph graph" src="https://github-readme-activity-graph.vercel.app/graph?username=its-19818942118&radius=20&theme=github-light&area=true&order=5&hide_border=true" height="300">
   </picture>
 </div>
