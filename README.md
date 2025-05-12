@@ -33,71 +33,57 @@
     height="40"
     alt="linux logo"
   />
-  
   <img
     width="12"
   />
-  
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
     height="40"
     alt="c logo"
   />
-  
   <img
     width="12"
   />
-  
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
     height="40"
     alt="cplusplus logo"
   />
-  
   <img
     width="12"
   />
-  
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"
     height="40"
     alt="cmake logo"
   />
-  
   <img
     width="12"
   />
-  
   <img
     src="https://cdn.simpleicons.org/gnubash/4EAA25"
     height="40"
     alt="bash logo"
   />
-  
   <img
     width="12"
   />
-  
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     height="40"
     alt="git logo"
   />
-  
   <img
     width="12"
   />
-  
   <img
     src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"
     height="40"
     alt="github logo"
   />
-  
   <img
     width="12"
   />
-  
   <img
     src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"
     height="40"
@@ -180,9 +166,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/snake-night.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/snake-light.svg">
-  <img src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/snake.svg" alt="Snake animation" height="300">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/refs/heads/output/github-contribution-grid-snake-night.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/refs/heads/output/github-contribution-grid-snake-light.svg">
+  <img src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/refs/heads/output/github-contribution-grid-snake-light.svg" alt="Snake animation" height="300">
 </picture>
 
 ###
