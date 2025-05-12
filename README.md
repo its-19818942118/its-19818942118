@@ -140,7 +140,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-19818942118&radius=20&theme=default&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-19818942118&radius=20&theme=github-light&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -155,12 +155,19 @@
 
 <br clear="both">
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/
   night.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/github-contribution-grid-pacman-light.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/github-contribution-grid-pacman-light.svg">
+</picture> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 
