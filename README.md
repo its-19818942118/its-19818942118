@@ -156,9 +156,10 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/github-pacman-night.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/github-pacman-light.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/github-pacman-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/
+  night.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/github-contribution-grid-pacman-light.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/github-contribution-grid-pacman-light.svg">
 </picture>
 
 ###
