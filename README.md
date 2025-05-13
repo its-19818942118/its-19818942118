@@ -18,7 +18,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=its-19818942118&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=its-19818942118&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=its-19818942118&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=github_light&hide_border=true&order=2" height="300" alt="languages graph">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=its-19818942118&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=codeSTACKr&hide_border=true&order=2"
       height="300"
