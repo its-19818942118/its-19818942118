@@ -195,11 +195,11 @@
 </picture> -->
 
 
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/its-19818942118/its-19818942118/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
